@@ -1,0 +1,181 @@
+[39.9527237, -75.1635262, 53], <!-- Philadelphia, Pennsylvania, United States -->
+[35.2272086, -80.8430827, 11], <!-- Charlotte, North Carolina, United States -->
+[33.7489924, -84.3902644, 10], <!-- Atlanta, Georgia, United States -->
+[30.2711286, -97.7436995, 9], <!-- Austin, Texas, United States -->
+[37.2296566, -80.4136767, 8], <!-- Blacksburg, Virginia, United States -->
+[35.613224, -77.3724593, 8], <!-- Greenville, North Carolina, United States -->
+[45.5202471, -122.674194, 8], <!-- Portland, Oregon, United States -->
+[35.0457219, -85.3094883, 7], <!-- Chattanooga, Tennessee, United States -->
+[35.9603948, -83.9210261, 7], <!-- Knoxville, Tennessee, United States -->
+[35.595363, -82.5508407, 6], <!-- Asheville, North Carolina, United States -->
+[39.2908816, -76.610759, 6], <!-- Baltimore, Maryland, United States -->
+[41.4996574, -81.6936772, 6], <!-- Cleveland, Ohio, United States -->
+[29.6519684, -82.3249846, 6], <!-- Gainesville, Florida, United States -->
+[36.3134398, -82.3534728, 6], <!-- Johnson City, Tennessee, United States -->
+[39.6296809, -79.9559437, 6], <!-- Morgantown, West Virginia, United States -->
+[47.6038321, -122.330062, 6], <!-- Seattle, Washington, United States -->
+[32.7884363, -79.9399309, 5], <!-- Charleston, South Carolina, United States -->
+[39.9622601, -83.0007065, 5], <!-- Columbus, Ohio, United States -->
+[39.7589478, -84.1916069, 5], <!-- Cincinnati, Ohio, United States -->
+[34.851354, -82.3984882, 5], <!-- Greenville, South Carolina, United States -->
+[37.5385087, -77.43428, 5], <!-- Richmond, Virginia, United States -->
+[27.3365805, -82.5308545, 5], <!-- Sarasota, Florida, United States -->
+[34.9498007, -81.9320157, 5], <!-- Columbia, South Carolina, United States -->
+[41.8755616, -87.6244212, 4], <!-- Chicago, Illinois, United States -->
+[36.0726355, -79.7919754, 4], <!-- Greensboro, North Carolina, United States -->
+[38.4192496, -82.445154, 4], <!-- Huntington, West Virginia, United States -->
+[30.3321838, -81.655651, 4], <!-- Jacksonville, Florida, United States -->
+[43.074761, -89.3837613, 4], <!-- Madison, Wisconsin, United States -->
+[33.9528472, -84.5496148, 4], <!-- Macon, Georgia, United States -->
+[42.0775022, -78.4298248, 4], <!-- Olean, New York, United States -->
+[30.421309, -87.2169149, 4], <!-- Pensacola, Florida, United States -->
+[38.7316375, -82.9965441, 4], <!-- Portsmouth, Ohio, United States -->
+[32.0790074, -81.0921335, 4], <!-- Savannah, Georgia, United States -->
+[61.2163129, -149.894852, 3], <!-- Anchorage, Alaska, United States -->
+[39.355589, -82.0610404, 3], <!-- Athens, Ohio, United States -->
+[46.7729322, -92.1251218, 3], <!-- Duluth, Minnesota, United States -->
+[32.753177, -97.3327459, 3], <!-- Fort Worth, Texas, United States -->
+[39.7683331, -86.1583502, 3], <!-- Indianapolis, Indiana, United States -->
+[42.4374175, -76.548372, 3], <!-- Ithaca, New York, United States -->
+[38.0464066, -84.4970393, 3], <!-- Lexington, Kentucky, United States -->
+[44.9772995, -93.2654692, 3], <!-- Minneapolis, Minnesota, United States -->
+[36.1622767, -86.7742984, 3], <!-- Nashville, Tennessee, United States -->
+[40.4416941, -79.9900861, 3], <!-- Pittsburgh, Pennsylvania, United States -->
+[42.2713945, -89.093966, 3], <!-- Rockford, Illinois, United States -->
+[36.8529841, -75.9774183, 3], <!-- Virginia Beach, Virginia, United States -->
+[34.2257282, -77.9447107, 3], <!-- Wilmington, North Carolina, United States -->
+[41.083064, -81.518485, 2], <!-- Canton, Ohio, United States -->
+[42.3555375, -71.1327494, 2], <!-- Lowell, Massachusetts, United States -->
+[40.6526006, -73.9497211, 2], <!-- Brooklyn, New York, United States -->
+[42.8867166, -78.8783922, 2], <!-- Buffalo, New York, United States -->
+[39.1014537, -84.5124602, 2], <!-- Cincinnati, Ohio, United States -->
+[39.7392364, -104.984862, 2], <!-- Denver, Colorado, United States -->
+[42.3315509, -83.0466403, 2], <!-- Ann Arbor, Michigan, United States -->
+[40.3284783, -75.12165691329459, 2], <!-- Allentown, Pennsylvania, United States -->
+[42.440058, -79.331711, 2], <!-- Dunkirk, New York, United States -->
+[60.9632459, -149.1336969, 2], <!-- Anchorage, Alaska, United States -->
+[39.063956, -108.5507317, 2], <!-- Grand Junction, Colorado, United States -->
+[40.2663107, -76.8861122, 2], <!-- Harrisburg, Pennsylvania, United States -->
+[38.4493315, -78.8688833, 2], <!-- Harrisonburg, Virginia, United States -->
+[31.3271189, -89.2903392, 2], <!-- Hattiesburg, Mississippi, United States -->
+[29.7589382, -95.3676974, 2], <!-- Houston, Texas, United States -->
+[41.6683126, -91.579527, 2], <!-- Davenport, Iowa, United States -->
+[32.2998686, -90.1830408, 2], <!-- Jackson, Mississippi, United States -->
+[42.7337712, -84.5553805, 2], <!-- Lansing, Michigan, United States -->
+[40.8088861, -96.7077751, 2], <!-- Lincoln, Nebraska, United States -->
+[34.0536909, -118.242766, 2], <!-- Los Angeles, California, United States -->
+[38.2542376, -85.759407, 2], <!-- Louisville, Kentucky, United States -->
+[35.8460396, -86.3921096, 2], <!-- Nashville, Tennessee, United States -->
+[29.9759983, -90.0782127, 2], <!-- New Orleans, Louisiana, United States -->
+[33.4484367, -112.074141, 2], <!-- Phoenix, Arizona, United States -->
+[41.8239891, -71.4128343, 2], <!-- Providence, Rhode Island, United States -->
+[43.157285, -77.615214, 2], <!-- Rochester, New York, United States -->
+[32.5135356, -93.7477839, 2], <!-- Shreveport, Louisiana, United States -->
+[41.6833813, -86.2500066, 2], <!-- South Bend, Indiana, United States -->
+[45.5616075, -94.1642004, 2], <!-- St. Cloud, Minnesota, United States -->
+[27.7700475, -82.6359078, 2], <!-- St. Petersburg, Florida, United States -->
+[30.4380832, -84.2809332, 2], <!-- Tallahassee, Florida, United States -->
+[30.8327022, -83.2784851, 2], <!-- Valdosta, Georgia, United States -->
+[38.8950368, -77.0365427, 2], <!-- Washington, District of Columbia, United States -->
+[39.6862263, -74.995168, 2], <!-- Wilmington, Delaware, United States -->
+[39.7459468, -75.546589, 2], <!-- Wilmington, Delaware, United States -->
+[42.6511674, -73.754968, 1], <!-- Albany, New York, United States -->
+[31.2909782, -92.4616292, 1], <!-- Shreveport, Louisiana, United States -->
+[40.6022059, -75.4712794, 1], <!-- Bethlehem, Pennsylvania, United States -->
+[33.9597677, -83.376398, 1], <!-- Athens, Georgia, United States -->
+[46.3433005, -94.286666, 1], <!-- St. Cloud, Minnesota, United States -->
+[38.5135805, -89.9841627, 1], <!-- Belleville, Illinois, United States -->
+[47.6144219, -122.192337, 1], <!-- Seattle, Washington, United States -->
+[40.6178915, -75.3786521, 1], <!-- Reading, Pennsylvania, United States -->
+[33.5206824, -86.8024326, 1], <!-- Birmingham, Alabama, United States -->
+[43.6166163, -116.200886, 1], <!-- Boise, Idaho, United States -->
+[40.0149856, -105.270545, 1], <!-- Boulder, Colorado, United States -->
+[45.6794293, -111.044047, 1], <!-- Helena, Montana, United States -->
+[30.6743643, -96.3699632, 1], <!-- College Station, Texas, United States -->
+[51.0456064, -114.057541, 1], <!-- Calgary, Alberta, Canada -->
+[40.7985464, -81.3749508, 1], <!-- Newark, Ohio, United States -->
+[38.029306, -78.4766781, 1], <!-- Charlottesville, Virginia, United States -->
+[39.2806451, -80.3445341, 1], <!-- Morgantown, West Virginia, United States -->
+[34.0003117, -81.0331309, 1], <!-- Columbia, South Carolina, United States -->
+[32.9552598, -97.0155703, 1], <!-- Arlington, Texas, United States -->
+[39.0836224, -84.508371, 1], <!-- Dayton, Ohio, United States -->
+[41.5235808, -90.5770967, 1], <!-- Moline, Illinois, United States -->
+[41.8903447, -88.7713953, 1], <!-- Elgin, Illinois, United States -->
+[33.1838787, -97.1413417, 1], <!-- Fort Worth, Texas, United States -->
+[41.5910323, -93.6046655, 1], <!-- Des Moines, Iowa, United States -->
+[42.5006243, -90.6647985, 1], <!-- Dubuque, Iowa, United States -->
+[31.7550511, -106.488234, 1], <!-- El Paso, Texas, United States -->
+[36.7295295, -119.70886126075588, 1], <!-- Fresno, California, United States -->
+[41.5850394, -85.8344491, 1], <!-- Fort Wayne, Indiana, United States -->
+[37.0300969, -76.3452057, 1], <!-- Hampton, Virginia, United States -->
+[41.764582, -72.6908547, 1], <!-- Hartford, Connecticut, United States -->
+[35.7333312, -81.3442915, 1], <!-- Hickory, North Carolina, United States -->
+[34.5038393, -93.0552437, 1], <!-- Hot Springs, Arkansas, United States -->
+[40.5595104, -79.386429, 1], <!-- Greensburg, Pennsylvania, United States -->
+[35.6144446, -88.8177418, 1], <!-- Jackson, Tennessee, United States -->
+[37.0841838, -94.5133385, 1], <!-- Joplin, Missouri, United States -->
+[36.1672559, -115.148516, 1], <!-- Las Vegas, Nevada, United States -->
+[38.9719384, -95.2359496, 1], <!-- Lawrence, Kansas, United States -->
+[34.7465071, -92.2896267, 1], <!-- Little Rock, Arkansas, United States -->
+[39.613321, -105.016649, 1], <!-- Denver, Colorado, United States -->
+[31.2587899, -96.6949797, 1], <!-- Lufkin, Texas, United States -->
+[40.7995049, -77.9550038, 1], <!-- Mifflintown, Pennsylvania, United States -->
+[42.4184296, -71.1061639, 1], <!-- Lowell, Massachusetts, United States -->
+[44.5571000, -70.5434, 1], <!-- Mexico, Maine, United States -->
+[25.7741728, -80.19362, 1], <!-- Miami, Florida, United States -->
+[42.2330918, -84.3271772, 1], <!-- Lansing, Michigan, United States -->
+[43.0349931, -87.922497, 1], <!-- Milwaukee, Wisconsin, United States -->
+[33.1006746, -86.8641558, 1], <!-- Montgomery, Alabama, United States -->
+[40.1936892, -85.3865271, 1], <!-- Muncie, Indiana, United States -->
+[33.6956461, -78.8900409, 1], <!-- Myrtle Beach, South Carolina, United States -->
+[40.7127281, -74.0060152, 1], <!-- New York, New York, United States -->
+[42.3178989, -72.6311006, 1], <!-- Northampton, Massachusetts, United States -->
+[44.4582041, -93.161159, 1], <!-- Minneapolis, Minnesota, United States -->
+[37.8044557, -122.271356, 1], <!-- Oakland, California, United States -->
+[47.0451022, -122.8950075, 1], <!-- Olympia, Washington, United States -->
+[40.2981599, -111.6944313, 1], <!-- Provo, Utah, United States -->
+[28.5421109, -81.3790304, 1], <!-- Orlando, Florida, United States -->
+[39.2667309, -81.5620755, 1], <!-- Parkersburg, West Virginia, United States -->
+[38.438232, -82.3811273, 1], <!-- Portsmouth, Ohio, United States -->
+[35.7803977, -78.6390989, 1], <!-- Raleigh, North Carolina, United States -->
+[36.022844, -75.722373, 1], <!-- Chesapeake, Virginia, United States -->
+[37.270973, -79.9414313, 1], <!-- Radford, Virginia, United States -->
+[34.257038, -85.1646726, 1], <!-- Rome, Georgia, United States -->
+[39.045355, -82.1304226, 1], <!-- Zanesville, Ohio, United States -->
+[35.6709727, -80.4742261, 1], <!-- Salisbury, North Carolina, United States -->
+[29.4246002, -98.4951405, 1], <!-- San Antonio, Texas, United States -->
+[27.7639145, -98.2388953, 1], <!-- Laredo, Texas, United States -->
+[37.050096, -121.99059, 1], <!-- San Jose, California, United States -->
+[43.5488256, -96.7307737, 1], <!-- Sioux Falls, South Dakota, United States -->
+[39.2998339, -75.6046494, 1], <!-- Dover, Delaware, United States -->
+[47.6571934, -117.42351, 1], <!-- Spokane, Washington, United States -->
+[39.7990175, -89.6439575, 1], <!-- Springfield, Illinois, United States -->
+[29.8946952, -81.3145395, 1], <!-- St. Augustine, Florida, United States -->
+[38.6280278, -90.1910154, 1], <!-- St. Louis, Missouri, United States -->
+[44.9497487, -93.0931028, 1], <!-- Minneapolis, Minnesota, United States -->
+[43.0481221, -76.1474244, 1], <!-- Syracuse, New York, United States -->
+[27.9477595, -82.458444, 1], <!-- Tampa, Florida, United States -->
+[41.6529143, -83.5378173, 1], <!-- Toledo, Ohio, United States -->
+[39.049011, -95.677556, 1], <!-- Topeka, Kansas, United States -->
+[36.1563122, -95.9927516, 1], <!-- Tulsa, Oklahoma, United States -->
+[33.2095614, -87.5675258, 1], <!-- Tuscaloosa, Alabama, United States -->
+[34.09751, -117.6483876, 1], <!-- Upland, California, United States -->
+[49.2608724, -123.113952, 1], <!-- Vancouver, British Columbia, Canada -->
+[41.4570418, -72.8231552, 1], <!-- Waterbury, Connecticut, United States -->
+[60.721571, -135.054932, 1], <!-- Whitehorse, Yukon, Canada -->
+[37.6922361, -97.3375448, 1], <!-- Wichita, Kansas, United States -->
+[44.4910402, -73.1861064, 1], <!-- Plattsburgh, New York, United States -->
+[48.2081743, 16.3738189, 1], <!-- Vienna, Austria -->
+[49.2827291, -123.1207375, 1], <!-- Vancouver, Canada -->
+[51.0447331, -114.0718831, 1], <!-- Calgary, Canada -->
+[60.7211871, -135.0568449, 1], <!-- Whitehorse, Canada -->
+[52.5200066, 13.404954, 1], <!-- Berlin, Germany -->
+[49.4874592, 8.4660395, 1], <!-- Mannheim, Germany -->
+[51.2258086, 6.408977, 1], <!-- Mulheim en de Rurh, Germany -->
+[51.3397565, 12.3730747, 1], <!-- Leipzig, Germany -->
+[53.8647222, 10.674722, 1], <!-- Lubeck, Germany -->
+[48.1351253, 11.5819806, 1], <!-- Munich, Germany -->
+[44.4938188, 11.3426172, 1], <!-- Bologna, Italy -->
+[43.8720016, 10.247922, 1], <!-- Viareggio, Italy -->
+[52.2760512, 6.7858329, 1], <!-- Erica, Netherlands -->
+[46.0510846, 14.5057515, 1], <!-- Ljubljana, Slovenia -->
